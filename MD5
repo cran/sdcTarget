@@ -1,0 +1,16 @@
+da31e2ca2c7de9e621474ad48abd013c *DESCRIPTION
+e7dda276e9b9d2df0e3d16e45e7fb860 *LICENSE.note
+b871bb0536709356a4da60cc32a7de6a *NAMESPACE
+b9ac496cea329b15227add9b178d2ff6 *R/sdcTarget-package.R
+c2296bbc17fd69caaa1d6eb328d6f2b4 *R/sdcTarget.package.R
+80000d3e39611229a1559fdd88c0916e *inst/CITATION
+25e4d0512199289be1f8dbea45c04aaf *man/estimateTimeToComputeTargetDefinition.Rd
+533245a73fbb6243a891619934f78b57 *man/sdcHashClass-class.Rd
+3e9eb7a0fa50d5b0ec953a8c9c39ac13 *man/sdcHashingDefinitionClass-class.Rd
+83f066f4c13f4d8c68f4622debdb9d57 *man/sdcProcessCells.Rd
+8d2d802f9c8420cc449c890befc7c29c *man/sdcSubstitutionMatrixClass-class.Rd
+c7da14d767e4abf02d881a37b0ca5177 *man/sdcTarget-package.Rd
+f4becaf49356e46262b52d000154a5d3 *man/sdcTargetDefinitionClass-class.Rd
+69d7da55b6dbb3f2958e2c168b755c48 *man/sdcTargetMatrixClass-class.Rd
+6ef28b595015c8c5f537da4271cff749 *man/show.Rd
+c390b762447951e88edbe3a77d07e713 *man/sub-sdcHashClass-method.Rd

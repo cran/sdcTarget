@@ -1,0 +1,14 @@
+bibentry("Manual",
+    title="sdcTarget: Statistical Disclosure Control Substitution Matrix Calculator",
+    author="Emmanuel Lazaridis",
+    year="2014",
+    note="(Version 0.9-11)",
+    url="http://statistics.lazaridis.eu",
+
+    textVersion =
+    paste("Lazaridis, E. (2014). ",
+        "sdcTarget: Statistical Disclosure Control Substitution Matrix Calculator (Version 0.9-11). ",
+        "Available from http://statistics.lazaridis.eu",
+        sep=""),
+
+    mheader = "To cite sdcTarget in publications use:")
